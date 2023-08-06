@@ -4,7 +4,7 @@ title:  Bienvenidos a mi cuenta de GitHub
 date:   2019-12-01 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
-tags: [Blog, Mountains, Sport]
+tags: [Blog, GitHub, Test]
 author: # Add name author (optional)
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
